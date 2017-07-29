@@ -51,7 +51,14 @@ Agora basta enviar ao repositório com:
 
 'git push origin master'.
 
-Com isso enviamos os exercícios que você resolve para o seu fork, mas ainda não enviamos para o repositório original.  
+Com isso enviamos os exercícios que você resolve para o seu fork, mas ainda não enviamos para o repositório original. 
+Para enviar para o repositório original, é necessário criarmos um Pull Request.  
+Passo 1 -> http://prntscr.com/g1xg79  
+Passo 2 -> http://prntscr.com/g1xggw
+Passo 3 -> http://prntscr.com/g1xgvk
+
+Agora o seu Pull Request foi enviado ao repositório original.  
+Agora só falta algum administrador do repositório aceitá-lo. 
 
 
 Você pode complementar esse mini tutorial com: </br>
