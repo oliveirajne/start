@@ -1,0 +1,2 @@
+Exercícios de Strings:
+https://wiki.python.org.br/ExerciciosComStrings

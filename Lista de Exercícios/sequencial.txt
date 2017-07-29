@@ -1,0 +1,93 @@
+01. Faça um programa que mostre a mensagem "Alo mundo" na tela.
+
+02. Ler nome, endereço, telefone e imprimir.
+
+03. Faça um Programa que peça um número e então mostre a mensagem:
+    "O número informado foi [número]".
+
+04. Faça um Programa que peça dois números e imprima a soma.
+
+05. Faça um Programa que peça as 4 notas bimestrais e mostre a média.
+
+06. Ler um número inteiro e imprimir seu sucessor e seu antecessor.
+
+07. Receber um valor qualquer do teclado e imprimir esse valor com reajuste de 10%.
+
+08. Ler um número inteiro e imprimir seu quadrado.
+
+09. Fazer um programa que calcule o salário líquido.
+    Serão fornecidos o valor da hora aula, número
+    de aulas dadas e a % de desconto do INSS.
+
+10. Ler o ano de nascimento do usuário e o ano atual.
+    Imprimir a idade da pessoa.
+
+11. Dados os três valores distintos, colocá-los em
+    ordem crescente, decrescente e calcular o valor
+    médio dos mesmos.
+
+12. Fazer um programa que imprima a média aritmética dos números 8, 9 e 7. 
+    A média dos números 4, 5 e 6. 
+    A soma das duas médias.
+    A média das médias.
+
+13. Faça um Programa que converta metros para centímetros.
+
+
+14. Faça um Programa que peça o raio de um círculo, 
+    calcule e mostre sua área.
+
+15. Faça um Programa que calcule a área de um quadrado, 
+    em seguida mostre o dobro desta área para o usuário.
+
+16. Faça um Programa que peça a temperatura em graus Farenheit, 
+    transforme e mostre a temperatura em graus Celsius.
+
+17. Faça um Programa que peça a temperatura em graus Celsius, 
+    transforme e mostre em graus Farenheit.
+
+18. Faça um Programa que peça 2 números inteiros e um número real. 
+    Calcule e mostre:
+    o produto do dobro do primeiro com metade do segundo.
+    a soma do triplo do primeiro com o terceiro.
+    o terceiro elevado ao cubo. 
+
+19. Tendo como dados de entrada a altura de uma pessoa, construa 
+    um algoritmo que calcule seu peso ideal, usando a seguinte 
+    fórmula: (72.7*altura) - 58
+
+20. Tendo como dados de entrada a altura e o sexo de uma pessoa, construa um 
+    algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
+    Para homens: (72.7*h) - 58
+    Para mulheres: (62.1*h) - 44.7 (h = altura)
+    Peça o peso da pessoa e informe se ela está dentro, acima ou abaixo do peso. 
+
+21. Calcule e mostre o total do seu salário no referido mês, sabendo-se que 
+    são descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato, 
+    faça um programa que nos dê:
+    + Salário Bruto : R$
+    - IR (11%) : R$
+    - INSS (8%) : R$
+    - Sindicato ( 5%) : R$
+    = Salário Liquido : R$
+    Obs.: Salário Bruto - Descontos = Salário Líquido. 
+
+22. Faça um programa para uma loja de tintas. 
+    O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. 
+    Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadrados e 
+    que a tinta é vendida em latas de 18 litros, que custam R$ 80,00. 
+    Informe ao usuário a quantidades de latas de tinta a serem compradas e o preço total.
+
+23. Faça um Programa para uma loja de tintas. 
+    O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. 
+    Considere que a cobertura da tinta é de 1 litro para cada 6 metros quadrados e que a 
+    tinta é vendida em latas de 18 litros, que custam R$ 80,00 ou em galões de 3,6 litros, que custam R$ 25,00.
+    Informe ao usuário as quantidades de tinta a serem compradas e os respectivos preços em 3 situações:
+    comprar apenas latas de 18 litros;
+    comprar apenas galões de 3,6 litros;
+    misturar latas e galões, de forma que o preço seja o menor. 
+    Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias. 
+
+24. Faça um programa que peça o tamanho de um arquivo para download (em MB) e a 
+    velocidade de um link de Internet (em Mbps), calcule e informe o tempo aproximado 
+    de download do arquivo usando este link (em minutos). 
