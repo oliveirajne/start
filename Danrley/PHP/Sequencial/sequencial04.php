@@ -2,5 +2,5 @@
     Insira dois números:</br>
     <input type="number" name="numero1" /></br>
     <input type="number" name="numero2" /></br>
-    <input type="submit" name="submit" value="submit" />
+    <input type="submit" name="submit" value="Enviar" />
 </form>
