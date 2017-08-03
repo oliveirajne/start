@@ -1,7 +1,9 @@
 <?php
     if($_POST['submit'] == "Enviar") {
-        $antecessor = (int)$_POST['number'] - 1;
-        $sucessor = (int)$_POST['number'] + 1;
+
+        $number = filter_input(INPUT_POST, "number", FILTER_SANITIZE_NUMBER_INT);
+        $antecessor = $number - 1;
+        $sucessor = $number + 1 ;
 
         echo "O antecessor do número digitado é: ", $antecessor;
         echo "</br> O sucessor do número digitado é: ", $sucessor;
