@@ -1,11 +1,11 @@
-# start
+# Start
 Este repositório foi criado para estudo de lógica de programação em qualquer linguagem de programação.
 
 # Como usar:
 Após escolher a linguagem que pretende estudar, basta resolver os exercícios aqui propostos.
 
 # O que você ganha com isso:
-Você irá aprender o básico de Git e de programação.
+Você aprenderá o básico de Git e de programação.
 
 # Tutorial:
 
@@ -21,13 +21,13 @@ git config --global user.email seu@email.com
 Abra um terminal, navegue até a pasta onde deseja salvar o projeto e clone este repositório com: </br>
 'git clone https://github.com/seu_usuario/start'
 
-Entre na pasta no projeto com 'cd start' e crie uma pasta com seu nome. </br>
+Entre na pasta no projeto com 'cd start' e crie uma pasta com o seu nome. </br>
 Você pode fazer isso manualmente ou pelo terminal com 'mkdir nome_da_pasta'.
 
 Na pasta "Lista de Exercícios", você verá vários exercícios para aprendizado de lógica de programação. </br>
-Sempre que resolver algum deles, salve eles na pasta que criamos com seu nome, para assim não usar a pasta de outros membros.
+Sempre que resolver algum deles, salve eles na pasta que criamos com o seu nome, para assim não usar a pasta de outros membros.
 
-Clonou o repositório, criou sua pasta e salvou seus algoritmos dentro dela? Então vamos enviar para o GitHub!
+Clonou o repositório, criou a sua pasta e salvou os seus algoritmos dentro dela? Então vamos enviar para o GitHub!
 
 Abra o terminal, navegue até a pasta do projeto e prossiga com:
 
