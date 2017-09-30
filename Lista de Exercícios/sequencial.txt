@@ -2,7 +2,7 @@
 
 02. Ler nome, endereço, telefone e imprimir.
 
-03. Faça um Programa que peça um número e então mostre a mensagem:
+03. Faça um programa que peça um número e então mostre a mensagem:
     "O número informado foi [número]".
 
 04. Faça um Programa que peça dois números e imprima a soma.
