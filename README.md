@@ -15,11 +15,13 @@ Passo 2 -> http://prntscr.com/g1x9ea
 Passo 3 -> http://prntscr.com/g1x9vv  
 
 Primeiramente vamos configurar seus dados no Git, caso você ainda não tenha feito:</br>
+```
 git config --global user.name "seu_nome_no_git" </br>
-git config --global user.email seu@email.com  
+git config --global user.email seu@email.com
+```
 
 Abra um terminal, navegue até a pasta onde deseja salvar o projeto e clone este repositório com: </br>
-'git clone https://github.com/seu_usuario/start'
+`git clone https://github.com/seu_usuario/start`
 
 Entre na pasta no projeto com 'cd start' e crie uma pasta com o seu nome. </br>
 Você pode fazer isso manualmente ou pelo terminal com 'mkdir nome_da_pasta'.
@@ -33,23 +35,23 @@ Abra o terminal, navegue até a pasta do projeto e prossiga com:
 
 Primeiro verifiquemos o status do projeto no GitHub com:
 
-'git status'
+`git status`
 
 Provavelmente irá aparecer a sua pasta em vermelho.
 
 Vamos adicionar a sua pasta para o commit com:
 
-'git add sua_pasta'
+`git add sua_pasta`
 
 Não haverá retorno. Fique calmo, pois isso indica que deu certo.
 
 Agora vamos preparar o commit para ser enviado ao GitHub:
 
-'git commit -m "comentário sobre o commit" '
+`git commit -m "comentário sobre o commit"`
 
 Agora basta enviar ao repositório com:
 
-'git push origin master'.
+`git push origin master`
 
 Com isso enviamos os exercícios que você resolve para o seu fork, mas ainda não enviamos para o repositório original. 
 Para enviar para o repositório original, é necessário criarmos um Pull Request.  
