@@ -10,9 +10,9 @@ Você aprenderá o básico de Git e de programação.
 # Tutorial:
 
 Antes de começar, crie uma conta no GitHub, caso não tenha e crie um fork deste repositório.</br>
-Passo 1 -> http://prntscr.com/g1x8yh  
-Passo 2 -> http://prntscr.com/g1x9ea  
-Passo 3 -> http://prntscr.com/g1x9vv  
+> [Passo 1](https://image.prntscr.com/image/B8GxcZ8-TyWWf82ki9C7aA.png)  
+> [Passo 2](https://image.prntscr.com/image/bp_ntSvWREC6svCAjy8YmA.png)  
+> [Passo 3](https://image.prntscr.com/image/Ed0ezZrmRfirfBYTVqY7Zg.png)  
 
 Primeiramente vamos configurar seus dados no Git, caso você ainda não tenha feito:</br>
 ```
@@ -55,9 +55,9 @@ Agora basta enviar ao repositório com:
 
 Com isso enviamos os exercícios que você resolve para o seu fork, mas ainda não enviamos para o repositório original. 
 Para enviar para o repositório original, é necessário criarmos um Pull Request.  
-Passo 1 -> http://prntscr.com/g1xg79  
-Passo 2 -> http://prntscr.com/g1xggw  
-Passo 3 -> http://prntscr.com/g1xgvk
+> [Passo 1](https://image.prntscr.com/image/tvrPY5fQQyaUt5vGGRaHJQ.png)  
+> [Passo 2](https://image.prntscr.com/image/1XSM0WC1SfSjM9v3gJOuZg.png)  
+> [Passo 3](https://image.prntscr.com/image/9UO2g0m2QYWOsgefFNThtg.png)
 
 Agora o seu Pull Request foi enviado ao repositório original.  
 Agora só falta algum administrador do repositório aceitá-lo. 
